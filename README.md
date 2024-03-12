@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👦
 
-**Olá, bem vindo ao meu repositório, me chamo Lucas e aqui postarei meu avanço no meu estudo em programação.
+Olá, bem vindo ao meu repositório, me chamo Lucas e aqui postarei meu avanço no meu estudo em programação.
 
 Here are some ideas to get you started:
 
