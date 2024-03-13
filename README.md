@@ -1,11 +1,11 @@
 ### Hi there 👦
 
-Olá, bem vindo ao meu repositório, me chamo Lucas e aqui postarei meu avanço no meu estudo em programação.
+Olá, bem vindo ao meu repositório, me chamo Lucas e aqui postarei meu avanço no estudo da programação.
 
-- 🔭 Eu estou atualmente em transição de área para TI, trabalho como Pré-Impressor em uma empresa de impressão de embalagens;
+- 🔭 Eu estou atualmente em transição de área para TI.
 - 👯 Eu estou atualmente colaborando em um projeto academico que visa ajudar o CPA (Centro de Proteção Animal) da minha cidade;
 - 👨‍💻 Tenho interesse em Desenvolvimento de Software, Arquitetura de Software e Ciência de Dados. 
--->
+
 ## Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
