@@ -3,7 +3,7 @@
 Olá, bem vindo ao meu repositório, me chamo Lucas e aqui postarei meu avanço no estudo da programação.
 
 - 🔭 Eu estou atualmente em transição de área para TI.
-- 👯 Eu estou colaborando em um projeto academico que visa ajudar o CPA (Centro de Proteção Animal) da minha cidade;
+- 👥 Eu estou colaborando em um projeto academico que visa ajudar o CPA (Centro de Proteção Animal) da minha cidade;
 - 👨‍💻 Tenho interesse em Desenvolvimento de Software, Arquitetura de Software e Ciência de Dados. 
 
 ## Estou aprendendo
