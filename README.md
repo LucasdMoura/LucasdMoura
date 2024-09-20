@@ -1,6 +1,6 @@
 ### Hi there 👦
 
-Olá, bem vindo ao meu repositório, me chamo Lucas e aqui postarei meu avanço no estudo da programação.
+Olá, bem vindo ao meu repositório, me chamo Lucas, 28 anos, apaixonado por tecnologia e por novos aprendizados.
 
 - Atuando em automações como Analista de Processos na MedCof .
 - 👥 Eu estou colaborando em um projeto academico que visa ajudar o CPA (Centro de Proteção Animal) da minha cidade;
