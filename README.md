@@ -27,7 +27,7 @@ Olá, bem vindo ao meu repositório, me chamo Lucas, 28 anos, apaixonado por tec
 
 ## GitHub Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&locale=pt-br&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasdMoura&locale=pt-br&theme=chartreuse-dark&show_icons=true)
 
 
 ## Contatos:
