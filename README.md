@@ -6,7 +6,7 @@ Olá, bem vindo ao meu repositório, me chamo Lucas, 28 anos, apaixonado por tec
 - 👥 Eu estou colaborando em um projeto academico que visa ajudar o CPA (Centro de Proteção Animal) da minha cidade;
 - 👨‍💻 Tenho interesse em Desenvolvimento de Software, Arquitetura de Software e Ciência de Dados. 
 
-## Lingugens e Skills
+## Linguagens e Skills
 
 <table>
   <tr>
